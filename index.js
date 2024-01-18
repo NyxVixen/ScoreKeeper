@@ -29,7 +29,7 @@ function updateScores(player, opponent) {
             <div class="modal-background"></div>
                 <div class="modal-content">
             <p class="image is-1by1">
-        <img src="https://media1.giphy.com/media/vk0AsKNOcAC55NmOGi/giphy.gif?cid=ecf05e477f7mvlxw6uofyykv5nlp12avlup8yqhvf0bcd7eb&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Man holding up a glass with fireworks going off in the background">
+        <img src="https://media1.giphy.com/media/yBwgX64KAPrHW2ltZ2/giphy.gif?cid=ecf05e47iixguii4ner66qqzz0j7zxvjf25fxsp2qf36nd30&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Man jumping up and cheering">
             </p>
         </div>
     <button id="modal-close" class="modal-close is-large" aria-label="close"></button>
