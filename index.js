@@ -38,7 +38,7 @@ function updateScores(player, opponent) {
                 const modalClose = document.getElementById('modal-close')
                 const modal = document.getElementById('modal')
                 modalClose.addEventListener("click", () => {
-                    modal.classList.remove('is-active') // STILL TRYING TO FIGURE OUT PROPERLY. COMMITING TO GITHUB TO WORK ON ON MY DESKTOP
+                    location.reload()
                 })
             }, 1000)
         }
